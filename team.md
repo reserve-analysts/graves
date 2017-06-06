@@ -9,7 +9,8 @@ permalink: /team/
 
 The following industry personnel are part of an Associates Group that has worked with Ralph E. Davis Associates, Inc. on recent projects requiring either an expertise in a particular discipline or as an additional professional to facilitate the time requirements of the project. These industry professionals expand the staff of the Davis firm to meet the needs of its client companies. 
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+---
+
 ### KEVIN J. LANT, P.G., P.G.S. 
 #### [Resume](/resume/put_resume_here.html)
 
@@ -21,7 +22,6 @@ Mr. Lant received his Bachelor of Science degree in Geology from California Stat
 
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 ### KENT B. LINA, P.E.
 #### [Resume](/resume/put_resume_here.html)
 
@@ -35,7 +35,6 @@ Kent Lina holds a Bachelor of Science degree from the University of Missouri-Rol
 
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 ### DENNIS W. ROHAN
 #### [Resume](/resume/put_resume_here.html)
 
