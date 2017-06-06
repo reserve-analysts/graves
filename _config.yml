@@ -10,8 +10,8 @@ exclude:
 # Site settings
 title: Reserve Analysts
 subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-email: acbarron@reserve-analysts.com
-name: Allen Barron
+# email: acbarron@reserve-analysts.com
+# name: Allen Barron
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -70,12 +70,12 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   
-  - name: LinkedIn
-    icon: linkedin
-    username: Allen C. Barron
-    url: https://www.linkedin.com/pub/???
-    desc: Connect with me on LinkedIn
-    share: true
+  # - name: LinkedIn
+  #   icon: linkedin
+  #   username: Allen C. Barron
+  #   url: https://www.linkedin.com/pub/???
+  #   desc: Connect with me on LinkedIn
+  #   share: true
 
   # - name: Twitter
   #   icon: twitter
