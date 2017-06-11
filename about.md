@@ -23,7 +23,7 @@ permalink: /about/
 
 * **_Natural Gas Deliverability Studies_** including Feasibility Studies & Reviews of Subsurface Natural Gas Storage Projects 
 
-* **Geological & Depositional Studies** related to Exploration Programs and Field Development Studies including petrophysical analysis, reservoir characterization and depositional models
+* **_Geological & Depositional Studies_** related to Exploration Programs and Field Development Studies including petrophysical analysis, reservoir characterization and depositional models
 
-* **Expert Witness Testimony and Litigation Support** in Local, State and Federal Courts and Testimony in State & Federal Regulatory Hearings 
+* **_Expert Witness Testimony and Litigation Support_** in Local, State and Federal Courts and Testimony in State & Federal Regulatory Hearings 
 
