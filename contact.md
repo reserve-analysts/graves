@@ -16,15 +16,15 @@ Missouri City, Texas 77459
 
 ### Personnel
 #### Associates:
-* **Kevin J. Lant, P.G., P.G.S**  
+* <span style="color:#c0392b">**Kevin J. Lant, P.G., P.G.S**</span>  
 	[klant@pelangi-resources.com](mailto:klant@pelangi-resources.com)  
 	918-804-7004
 
-*  **Kent B. Lina, P.E.**  
+*  <span style="color:#c0392b">**Kent B. Lina, P.E.**</span>  
 	[klina@att.net](mailto:klina@att.net)  
 	303-810-3590
 
-*  **Dennis W. Rohan**  
+*  <span style="color:#c0392b">**Dennis W. Rohan**</span>  
 	[d.rohan@comcast.net](mailto:d.rohan@comcast.net)  
 	713-206-8112
  

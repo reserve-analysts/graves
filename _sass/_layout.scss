@@ -366,6 +366,9 @@ pre code.hljs {
 	    outline: none;
 	  }
 	}
+  h3 {
+      color: $white;
+  }
 	.wrapper {
 		@include outer-container;
 	}

@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team/
 ---
-**_Reserve Analysts Associates, Inc._** has assembled a talented staff of associate engineers and geologists with the experience to address the varied and changing technology impacting the oil and natural gas industry throughout the world today. Technical specialists are utilized on an as needed basis in areas of unconventional shale plays, conventional reservoirs, onshore and offshore reservoir and field studies, in situations ranging from exploration projects to development studies to assets sales and acquisitions.
+<span style="color:#c0392b">**_Reserve Analysts Associates, Inc._**</span> has assembled a talented staff of associate engineers and geologists with the experience to address the varied and changing technology impacting the oil and natural gas industry throughout the world today. Technical specialists are utilized on an as needed basis in areas of unconventional shale plays, conventional reservoirs, onshore and offshore reservoir and field studies, in situations ranging from exploration projects to development studies to assets sales and acquisitions.
 
 ## Associates
 
