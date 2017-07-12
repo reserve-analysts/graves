@@ -237,12 +237,13 @@ pre code.hljs {
 		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
 		background-color: $highlight-color;
 		.site-header{
-			.title {
+      .title {
 				font-size: modular-scale(6);
 			}
 			.subtitle {
 				font-style: italic;
 				font-size: modular-scale(1);
+        margin: auto;
 			}
 		}
 	}

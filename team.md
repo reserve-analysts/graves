@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
+order: 3
 ---
 Currently, <span style="color:#c0392b">**_Reserve Analysts Associates, Inc._**</span> has no personnel on staff or professional engineers or geoscientists who are associated with the company. Once the company is formed an effort will be made to assemble a talented staff with the experience to address the varied and changing technology impacting the oil and natural gas industry throughout the world today.
 

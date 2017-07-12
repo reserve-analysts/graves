@@ -2,6 +2,7 @@
 layout: page
 title: History
 permalink: /history/
+order: 1
 ---
 Effective late February 2015 the assets of Ralph E. Davis Associates, Inc. were sold to Opportune LP, a Houston based firm providing financial and accounting consulting services to the energy industry.  Opportune wished to add upstream engineering services to its portfolio at that time so the owners of the Ralph E. Davis firm agreed to an asset sale of the firm originally founded in 1924.
 

@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+order: 4
 ---
 Any questions, inquiries, comments or suggestions will be gratefully recieved and acknowledged.
 
