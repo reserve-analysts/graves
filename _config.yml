@@ -8,8 +8,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Reserve Analysts
-# subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+title: Reserve Analysts Associates, Inc.
+subtitle: |
+  Combining Petroleum Engineers and Geoscientists
+  <p>Oil & Gas Reserves and Valuations
 # email: acbarron@reserve-analysts.com
 # name: Allen Barron
 description: >
