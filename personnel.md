@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut suscipit lac
 The following industry personnel are part of an Associates Group that is available to work for Graves & Co. Consulting LLC on various projects, both domestically and internationally that may require either an expertise in a particular discipline or as an additional professional to facilitate the time requirements of a particular project. These industry professionals expand the staff of the Graves Consulting firm to meet the needs of its client companies. 
 
 ### KEVIN J. LANT, P.G., P.G.S. 
-#### [View Resume](/resumes/kevin_lant_resume.doc)
+#### [View Resume](/resumes/kevin_lant_resume.docx)
 
 Kevin Lant has over 35 years of experience in the domestic and international energy industry as both an exploration and development geologist. He began his career as a geologist-geophysicist working various basins throughout the Mid Continent, Rocky Mountains and West Coast basins. He then worked within the Gulf Coast and Mid Continent regions before beginning his international experience in Algeria and North Africa. Mr. Lant moved to Indonesia where he was instrumental in the discovery of significant gas reserves before returning to the United States as an independent consultant. 
 
