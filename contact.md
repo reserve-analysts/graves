@@ -4,38 +4,7 @@ title: Contact
 permalink: /contact/
 order: 4
 ---
-Any questions, inquiries, comments or suggestions will be gratefully recieved and acknowledged.
-
-### Owner
-
-**Allen C. Barron, P.E.**
-
-### Address
-
-<span style="color:#c0392b">**Reserve Analysts Associates, Inc.**</span>  
-2130 Glenn Lakes Lane  
-Missouri City, Texas 77459  
-
-### Phone Numbers
-
-| **Office** | 281-438-3000 |
-| **Cell**   | 713-703-0975 |
-
-### Email Address
-
-[*acbarron@reserve-analysts.com*](mailto:acbarron@reserve-analysts.com)
-
-<!-- ### Personnel -->
-<!-- #### Associates: -->
-<!-- * <span style="color:#c0392b">**Kevin J. Lant, P.G., P.G.S**</span>   -->
-<!-- 	[klant@pelangi-resources.com](mailto:klant@pelangi-resources.com)   -->
-<!-- 	918-804-7004 -->
-
-<!-- *  <span style="color:#c0392b">**Kent B. Lina, P.E.**</span>   -->
-<!-- 	[klina@att.net](mailto:klina@att.net)   -->
-<!-- 	303-810-3590 -->
-
-<!-- *  <span style="color:#c0392b">**Dennis W. Rohan**</span>   -->
-<!-- 	[d.rohan@comcast.net](mailto:d.rohan@comcast.net)   -->
-<!-- 	713-206-8112 -->
- 
+<img src="/assets/logo.jpg" alt="Graves & Co. Consulting LLC" style="float: left; width: 130px; padding-right: 1em;"/>**Graves & Co. Consulting LLC**  
+2777 Allen Parkway, 12th Floor  
+Houston, Texas, USA, 77019  
+**Office:** 713-650-0811  /   **Fax:** 713-650-0840 

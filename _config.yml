@@ -8,21 +8,21 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Reserve Analysts Associates, Inc.
+title: GRAVES & CO. CONSULTING LLC
 subtitle: |
-  Combining Petroleum Engineers and Geoscientists
+  Consulting Petroleum Engineers and Geoscientists
   <p>Oil & Gas Reserves and Valuations
-# email: acbarron@reserve-analysts.com
-# name: Allen Barron
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+# email: 
+# name: 
+# description: >
+  # A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://reserve-analysts.github.io" # the base hostname & protocol for your site
-cover: "/assets/cloudy.jpeg"
-logo: "/assets/logo.png"
+cover: "/assets/cloudy1.jpeg"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
