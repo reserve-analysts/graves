@@ -20,7 +20,7 @@ subtitle: |
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://reserve-analysts.github.io" # the base hostname & protocol for your site
+url: "http://reserve-analysts.github.io/graves" # the base hostname & protocol for your site
 cover: "/assets/cloudy1.jpeg"
 logo: "/assets/logo.jpg"
 
