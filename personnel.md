@@ -8,7 +8,7 @@ order: 3
 
 ## Principal
 
-### JOHN L. GAVES
+### JOHN L. GRAVES
 #### [View Resume](/resumes/missing_resume.doc)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut suscipit lacus. Proin mattis a dui a egestas. Proin quis scelerisque est, vel luctus orci. Morbi sem arcu, bibendum sed iaculis vitae, vehicula at felis. Nulla facilisi. Nunc venenatis ipsum in massa vehicula congue id et arcu. Aenean lobortis mi efficitur lobortis posuere. Aenean at ex sed odio feugiat commodo. Nulla molestie mi nec finibus bibendum. Integer posuere purus mauris, at dignissim justo elementum eu. Nulla et massa est. Vestibulum viverra et lorem vestibulum placerat. Vivamus sed justo auctor metus finibus viverra. Aliquam erat volutpat. Nulla porta ultricies libero, sed dapibus mi fermentum non. 
