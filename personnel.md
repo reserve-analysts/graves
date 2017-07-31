@@ -9,9 +9,11 @@ order: 3
 ## Principal
 
 ### JOHN L. GRAVES
-#### [View Resume](/resumes/missing_resume.doc)
+#### [View Resume](/resumes/john_graves_resume.docx)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut suscipit lacus. Proin mattis a dui a egestas. Proin quis scelerisque est, vel luctus orci. Morbi sem arcu, bibendum sed iaculis vitae, vehicula at felis. Nulla facilisi. Nunc venenatis ipsum in massa vehicula congue id et arcu. Aenean lobortis mi efficitur lobortis posuere. Aenean at ex sed odio feugiat commodo. Nulla molestie mi nec finibus bibendum. Integer posuere purus mauris, at dignissim justo elementum eu. Nulla et massa est. Vestibulum viverra et lorem vestibulum placerat. Vivamus sed justo auctor metus finibus viverra. Aliquam erat volutpat. Nulla porta ultricies libero, sed dapibus mi fermentum non. 
+John Graves has 36 years of experience in exploration & production and oil & gas consulting.  He began his career as a roughneck for Grey Wolf Drilling, and joined Texoil Company as a field landman, focusing on South Louisiana.  He spent 15 years with Texoil, rising to president and chief operating officer, and helping to take that company public.  During his tenure, Texoil expanded its exploration efforts into coastal Texas and its acquisition efforts into Argentina.  He founded Graves & Co. in 1986 as the first buy-side M&A service and support firm in the industry, providing due diligence, valuations, negotiation support and opportunity sourcing, along with front line and back-office support to E&P companies in the form of land, accounting, gas marketing and regulatory services.  Graves & Co’s. buy-side M&A services expanded into the oilfield service and midstream sectors, and most recently, the downstream sector.  Graves & Co’s. work has involved assets in every major basin in the Lower 48 States, the Outer Continental Shelf, the Cook Inlet, offshore West Africa, and onshore Argentina and Guatemala. 
+
+Mr. Graves holds a BA in History and Political Science from Texas A&M University, and an MA from the University of Leicester.  He is a member of the American Association of Professional Landmen, Houston Producers’ Forum, and Houston Energy Finance Group.
 
 ---
 
