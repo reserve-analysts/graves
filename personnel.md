@@ -37,7 +37,7 @@ Kent Lina has forty years of experience in the domestic oil and gas industry wit
 
 Kent Lina began his career in the West Texas region in operations and developed expertise in field operations including drilling, completion and waterflood operations. &nbsp; He supervised both company operated and non-operated joint venture programs and provided expert testimony at regulatory hearings.
 
-Mr. Lina moved to the Rocky Mountain region and became involved in evaluation properties for acquisitions and divestitures, as well as corporate exploration and development. &nbsp; He performed numerous reserve evaluations for financial and regulatory reporting requirements and supervised a staff of reserve evaluators for a public E&P corporation. &nbsp; He has developed extensive analytical techniques related to various shale plays to identify successful completion methods and areas within the plays with increased chances of success.
+Mr. Lina moved to the Rocky Mountain region and became involved in evaluating properties for acquisitions and divestitures, as well as corporate exploration and development. &nbsp; He performed numerous reserve evaluations for financial and regulatory reporting requirements and supervised a staff of reserve evaluators for a public E&P corporation. &nbsp; He has developed extensive analytical techniques related to various shale plays to identify successful completion methods and areas within the plays with increased chances of success.
 
 Kent Lina holds a Bachelor of Science degree from the University of Missouri-Rolla in Civil Engineering with a program emphasis in Petroleum Engineering, and is a licensed professional engineer in the State of Texas. 
 
