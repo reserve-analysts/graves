@@ -68,7 +68,7 @@ He previously was Texas Asset Manager and Chief Reservoir Engineer for Davis Pet
 Mr. Hainey holds a BSEE and MSE from University of Texas at Austin, and he has pursued post-graduate studies in petroleum engineering at Texas A&amp;M University.  He is licensed professional engineer in the State of Texas number 65528.  He is a member of the Society of Petroleum Engineers, and the Tau Beta Pi, Pi Epsilon Tau, and Eta Kappa Nu engineering honor societies.
 
 ### DAVID COLE
-#### [View Resume] (/resumes/david_cole_resume.docx)
+#### [View Resume](/resumes/david_cole_resume.docx)
 
 David Cole is a reserve evaluation engineer with more than 28 years of domestic and international experience providing valuation, reserve reporting, and support for financings ranging from reserve-based lending to initial public offerings.  He has generated reserve reports for use in U.S. and international stock exchanges.  He has extensive experience in all areas of the U.S., both on and offshore, and internationally.  He previously served as a Senior Reservoir Engineer at Ralph E. Davis Associates, where he provided asset evaluations and reserve reporting for a variety of domestic and international clients for acquisitions, divestments and financial requirements.
 
