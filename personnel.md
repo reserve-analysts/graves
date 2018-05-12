@@ -57,15 +57,6 @@ Kati Moore is an experienced industry professional with nineteen years of experi
 
 Ms. Moore is proficient in various geologic software systems such as Petra, Kingdom SMT, ArcGIS and has worked with industry systems such as IHS Enerdeq data, GIS, MJ Logs, TGS (A2D) LogLine Plus/Longbow,  Drilling Info and various state websites for oil and gas data acquisitions. &nbsp; She routinely prepared presentation for management that included geologic maps, production plots, cross-sections and the accompanying written reports. 
 
-### NATHAN KUCHARSKI
-### [View Resume](/resumes/nathan_kucharski_resume.docx)
-
-Nathan Kucharski has nine years of professional experience including asset evaluation, acquisition and divestiture analysis, unconventional shale basin studies, field studies, annual reserve reporting, enhanced recovery valuations, reserve and economic evaluations and production performance analysis.  Recent services included providing due diligence for a private equity backed company’s SCOOP/STACK acquisitions valued at over $500MM, assisting in the $775MM acquisition of acreage in the Delaware Basin, and supporting the acquisition of coal bed methane fields in Colorado and Virginia.  
-
-Previously, he served as a senior reservoir engineer with Ralph E. Davis Associates, where he provided field studies focused on unconventional resources, reserve reports and economic analysis for both public and private companies, prepared fair market valuation and estate studies, and assisted with the preparation of Competent Persons Reports for filing on the NYMEX, London (AIM), Toronto (TSX) and Australian (ASX) exchanges.  Prior to that, he worked as a reservoir engineer at PratorBett.  He is proficient in ARIES, PHDWin and Petra. 
-
-Nathan holds a BS in Petroleum Engineering from Texas Tech University.  He is a member of the Society of Petroleum Engineers, Society of Petroleum Evaluation Engineers, and the American Association of Petroleum Geologists.
-
 ### MEL HAINEY
 ### [View Resume](/resumes/mel_hainey_resume.pdf)
 
